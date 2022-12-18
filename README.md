@@ -32,14 +32,14 @@ Can track medication intake and overall mood and health. Can record symptoms and
 
 ## Interview Responses
 ### Participant 1:Anil
-* **Once a month 
-One time they did not give me enough and I had to wait a few days before it could refill, so I didnt have any pills for a few days 
-Tablets and shots
-Daily , twice a day
-Not long prob like 3 min or so
-No, but I order my shots online 
-Yeh my shots 
-“I mean its normally really quick to pick up my stuff but there could be a machine or something that fills the prescription for you so there's no pharmacist at all and you don't have to deal with anyone touching your stuff…..or you could have a dispenser machine that dispenses your drugs too and use a credit card”**
+* **Once a month**
+- One time they did not give me enough and I had to wait a few days before it could refill, so I didnt have any pills for a few days 
+- Tablets and shots
+- Daily , twice a day
+- Not long prob like 3 min or so
+- No, but I order my shots online 
+- Yeh my shots 
+- “I mean its normally really quick to pick up my stuff but there could be a machine or something that fills the prescription for you so there's no pharmacist at all and you don't have to deal with anyone touching your stuff…..or you could have a dispenser machine that dispenses your drugs too and use a credit card”
 
 
 ## Getting Started
