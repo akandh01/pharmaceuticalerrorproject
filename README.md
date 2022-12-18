@@ -13,9 +13,9 @@ To develop an AR prototype that is capable of scanning, taking a photo, counting
 The demographic most effected by pharmacy errors are children under the age of 5 and the elderly. Therefore, parents, healthcare workers and people who to take medication should be included in this study.
 
 ##Competitors
-  ##Express Scripts
+  ###Express Scripts
 This app allows you to set up medication reminders and refill your prescription all in one. In addition, your health insurance can be connected so that you can track and and order your prescriptions all in one. 
-  ##MyTherapy
+  ###MyTherapy
 Can track medication intake and overall mood and health. Can record symptoms and personalized tips for your treatment. Provides a health record that can be shared with your doctor to see where your health needs to be improved. 
 
 
