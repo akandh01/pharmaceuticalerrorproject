@@ -61,6 +61,16 @@ Once a day
 - Yes I get my medication delivered to my home every 8 weeks 
 - Id like pharmacies to have a better way of organizing the prescriptions they fill out. Ive seen some medication be lost at the pharmacy or in their system it says they have it but the pharmacist cant find it 
 
+### Participant 4: Priya
+* **Maybe once**
+- They've changed the way it looks without informing me and also they've refilled it without me calling them first when I had just picked up my medication a week prior 
+- Topical creams and pills 
+- Everyday, once a day at night 
+- Normally its really fast but if someone is holding up the line or they can't find my prescription it can be a few minutes 
+- No I just remember 
+- Yes when my doctor sent my prescription to a different pharmacy far from my house it had to be delivered 
+- I think there should be some sort of system that rechecks the pharmacists handling the medication just to make sure everything is right. Or there could be something that counts it and then the pharmacist just has to give it to the person so no one is handling it. 
+
 
 
 
