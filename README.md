@@ -41,6 +41,22 @@ Can track medication intake and overall mood and health. Can record symptoms and
 - Yeh my shots 
 - “I mean its normally really quick to pick up my stuff but there could be a machine or something that fills the prescription for you so there's no pharmacist at all and you don't have to deal with anyone touching your stuff…..or you could have a dispenser machine that dispenses your drugs too and use a credit card”
 
+### Participant 2: Shanta
+* *Once a month**
+- Sometimes they give me a different pill that looks different from the ones I normally take and they dont say anything so then I have to call the doctor and make sure its the right one 
+- Tablets 
+Once a day
+- It depends sometimes it can be really quick if no one is there and if its a lot of people  it could take a few minutes 
+- No 
+- If its from a pharmacy far away yeh but if its the one right outside I go get it 
+- “I dont know doctors make a lot of mistakes and tablets and bottles come different everytime I go pick it up….maybe they could double check it or look at it again to make sure its right. Everything is made by hand not machines. “
+
+
+
+
+
+
+
 
 ## Getting Started
 
