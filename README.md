@@ -19,15 +19,16 @@ This app allows you to set up medication reminders and refill your prescription 
 Can track medication intake and overall mood and health. Can record symptoms and personalized tips for your treatment. Provides a health record that can be shared with your doctor to see where your health needs to be improved. 
 
 ## Interviews 
-   ### Interview Questions 
-   How many times a month do you pick up a prescription from the pharmacy?
-   Have you ever had any issues with your prescription?
-   What form of medication do you typically use?
-   How many times a week do you need to take your medication?
-   How long is the wait time at the pharmacy when you pick up your medication?
-   Have you ever tried a medication tracking app?
-   Have you ever had your medication delivered to your home?
-   If there was one feature you wish pharmacies would change or implement what would it be?
+
+### Interview Questions 
+* **How many times a month do you pick up a prescription from the pharmacy?**
+- Have you ever had any issues with your prescription?
+- What form of medication do you typically use?
+- How many times a week do you need to take your medication?
+- How long is the wait time at the pharmacy when you pick up your medication?
+- Have you ever tried a medication tracking app?
+- Have you ever had your medication delivered to your home?
+- If there was one feature you wish pharmacies would change or implement what would it be?
 
 
 
