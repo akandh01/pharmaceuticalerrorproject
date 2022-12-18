@@ -1,12 +1,23 @@
  # Pharmaceutical Error Project 
 
-# Project Background 
+## Project Background 
 The three most common pharmaceutical errors are dispensing an incorrect medication, miscalculating a dose and failing to identify drug contraindications and interactions. These errors are likely caused by health care providers and the patients themselves. Due to this, an estimated 30 to 50 million prescriptions are filled incorrectly every year. These human errors can cause serious health issues for children under the age of 5 and the elderly. 
 
-# Project Statement
+## Project Statement
 This project will work to study the behaviors and routines of pharmacies and patients to determine how often pharmaceutical errors occur, which will consequently aid in finding a solution to the issue.
 
-#
+##Goals
+To develop an AR prototype that is capable of scanning, taking a photo, counting, reading or interacting with prescription bottles using a QR code, barcode or container shape. In addition, to also creating a prototype that is capable of decreasing the amount of dosage miscalculations and overall pharmaceutical errors. 
+
+##Target Audience 
+The demographic most effected by pharmacy errors are children under the age of 5 and the elderly. Therefore, parents, healthcare workers and people who to take medication should be included in this study.
+
+##Competitors
+  ##Express Scripts
+This app allows you to set up medication reminders and refill your prescription all in one. In addition, your health insurance can be connected so that you can track and and order your prescriptions all in one. 
+  ##MyTherapy
+Can track medication intake and overall mood and health. Can record symptoms and personalized tips for your treatment. Provides a health record that can be shared with your doctor to see where your health needs to be improved. 
+
 
 ## Getting Started
 
