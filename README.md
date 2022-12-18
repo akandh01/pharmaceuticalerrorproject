@@ -42,14 +42,24 @@ Can track medication intake and overall mood and health. Can record symptoms and
 - “I mean its normally really quick to pick up my stuff but there could be a machine or something that fills the prescription for you so there's no pharmacist at all and you don't have to deal with anyone touching your stuff…..or you could have a dispenser machine that dispenses your drugs too and use a credit card”
 
 ### Participant 2: Shanta
-* *Once a month**
+* **Once a month**
 - Sometimes they give me a different pill that looks different from the ones I normally take and they dont say anything so then I have to call the doctor and make sure its the right one 
 - Tablets 
 Once a day
 - It depends sometimes it can be really quick if no one is there and if its a lot of people  it could take a few minutes 
 - No 
 - If its from a pharmacy far away yeh but if its the one right outside I go get it 
-- “I dont know doctors make a lot of mistakes and tablets and bottles come different everytime I go pick it up….maybe they could double check it or look at it again to make sure its right. Everything is made by hand not machines. “
+- “I dont know doctors make a lot of mistakes and tablets and bottles come different everytime I go pick it up….maybe they could double check it or look at it again to make sure its right. Everything is made by hand not machines."
+
+### Participant 3: JonCarlo
+* **I dont pick up prescriptions anymore. The only time I have is if I go to CityMD for a one-off illness. Id say maybe 4 or 5 times a year I have to pick up a prescription physically in a pharmacy.**
+- Ive had issues with my prescriptions before. Mostly on a the insurance side of things but Ive also gotten the wrong dose of medication and ive also had a prescription that was never filled at the pharmacy so i never just never got that medication.
+- The main form of medication I use now are self injectable needles for my Crohns disease. Other than that I mostly have to take ibuprofen for headaches. 
+- I need to take my medication once every 8 weeks. But in the past I used to have to take up to 12 pills every morning. 
+- When I have ti go to the pharmacy I can usually pick up the medication within the day the medication was prescribed to me. So Ive never waited more than 15 minutes at a pharmacy to pick medication.
+- Ive never used a specific app to track my medication but I do use CVS Speciality now and then they let me track pretty much like how you can track an amazon package.
+- Yes I get my medication delivered to my home every 8 weeks 
+- Id like pharmacies to have a better way of organizing the prescriptions they fill out. Ive seen some medication be lost at the pharmacy or in their system it says they have it but the pharmacist cant find it 
 
 
 
