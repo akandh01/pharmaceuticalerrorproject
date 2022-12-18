@@ -92,8 +92,24 @@ This prototype will be created using Unity. Specifically, the AR project setting
 Follow these steps to create prototype: 
 
 ```
+Create AR Core project
+```
+```
+Open Build Settings and Switch Platform to IOS or Android 
+```
+```
+Open Player Settings and install XR Plugin Management 
+```
+```
+Select ARKit Plugin
+```
+```
+Import AR Foundations Samples Unity Package 
+```
+```
 Download ArCore XR Plugin
 ```
+
 
 And repeat
 
