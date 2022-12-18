@@ -71,33 +71,28 @@ Once a day
 - Yes when my doctor sent my prescription to a different pharmacy far from my house it had to be delivered 
 - I think there should be some sort of system that rechecks the pharmacists handling the medication just to make sure everything is right. Or there could be something that counts it and then the pharmacist just has to give it to the person so no one is handling it. 
 
+## Results Summarized
+From the participants interviewed, the following results were analyzed:
+* **Pharmacists not telling patients that the physical look of their medication has changed**
+- Wrong amount 
+- Pharmacist refilling prescription on their own 
+- More attention needed to labels and bottles 
 
 
-
-
-
-
-
-## Getting Started
+## AR Project 
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+This prototype will be created using Unity. Specifically, the AR project setting. To test the prototype, users can use their phones.
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
+Follow these steps to create prototype: 
 
 ```
-Give the example
+Download ArCore XR Plugin
 ```
 
 And repeat
