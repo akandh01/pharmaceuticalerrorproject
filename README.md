@@ -104,16 +104,10 @@ Open Player Settings and install XR Plugin Management
 Select ARKit Plugin
 ```
 ```
-Import AR Foundations Samples Unity Package 
+Import AR Foundations Samples Unity Package and Download ArCore XR Plugin
 ```
 ```
-Download ArCore XR Plugin
-```
-```
-In Player Settings set the Bundle ID
-```
-```
-In Player Settings set requires ARKit Support and set allow "Unsafe" code
+In Player Settings set the Bundle ID and set requires ARKit Support and set allow "Unsafe" code
 ```
 ```
 In Player Settings Add Description Text to Camera and Location Permissions
