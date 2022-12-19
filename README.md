@@ -79,7 +79,7 @@ From the participants interviewed, the following results were analyzed:
 - More attention needed to labels and bottles 
 
 
-## AR Project 
+## Getting Started: AR Project 
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
@@ -109,6 +109,26 @@ Import AR Foundations Samples Unity Package
 ```
 Download ArCore XR Plugin
 ```
+```
+In Player Settings set the Bundle ID
+```
+```
+In Player Settings set requires ARKit Support and set allow "Unsafe" code
+```
+```
+In Player Settings Add Description Text to Camera and Location Permissions
+```
+```
+Open Basic Image Tracking Scene 
+```
+```
+Open Build Settings and Add Open Scene
+```
+```
+Create Build Folder and Build Xcode Project Files (or Build APK file for Android)
+```
+
+
 
 
 And repeat
