@@ -145,10 +145,16 @@ Use the AR Foundation App to scan the image from the Unity Editor
 ```
 The prototype is supposed to be able to scan the prescription and pill bottles to tell the patient the quantity, prescription, refill and important infornamtion about the prescription. 
 
+## Prototype Features 
+The main features of the prototype are:
+* **Scanning medication containers or barcode using phone**
+- Counting medication inside using a scan 
+- Scanning container for prescription, refills and information
+
+
 ## Deployment
+To deploy this prototype on a live system, users must access the cameras on their phone and scan their medication containers. They can do this by using the AR Foundation app. Once scanned, a pop up window would appear on their phones that notifies them of all the infornmation of their medication. 
 
+## Future Development 
 While the prototype is still in development, the main objective of this project is for patients to be able to count and recognize the amount of correct medication in the bottle by scanning the container using their phones. In this way, patients have a way of ensuring the correct medication without even having to open the container. Any changes or problems with the prescription would automatically be recognized and from there the patient can contact their pharmacy or health care provider for help. 
-
-
-* Inspiration
-* etc
+The central point of this prototype is to decrease the amount of errors that occur by healthcare workers when distributing and filling prescriptions. By adding another level of security where patients have another outlet to double check their medication, it helps ensure that errors are less prevelant in the healthcare field.
