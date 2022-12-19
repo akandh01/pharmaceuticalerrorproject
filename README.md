@@ -127,15 +127,26 @@ Open Build Settings and Add Open Scene
 ```
 Create Build Folder and Build Xcode Project Files (or Build APK file for Android)
 ```
-
-
-
-
-And repeat
-
 ```
-until finished
+Attach phone or Ipad to computer
 ```
+```
+Add your Apple Account to Team for Unity-iPhone and Unity-iPhone Targets 
+```
+```
+Press Play Button to Build and Install to iPhone or iPad
+```
+```
+Open the AR Foundation App on iPhone
+```
+```
+Open the barcode in the Unity Project and point phone at code
+```
+
+
+
+
+
 
 End with an example of getting some data out of the system or using it for a little demo
 
