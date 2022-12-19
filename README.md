@@ -140,15 +140,16 @@ Open the barcode in the Unity Project and point phone at code
 
 ## Running the tests
 
-Explain what these tests test and why
+The prototype can be utilized using your Iphone or Android devices. 
 
 ```
-Give an example
+Use the AR Foundation App to scan the image from the Unity Editor 
 ```
+The prototype is supposed to be able to scan the prescription and pill bottles to tell the patient the quantity, prescription, refill and important infornamtion about the prescription. 
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+While the prototype is still in development, the main objective of this project is for patients to be able to count and recognize the amount of correct medication in the bottle by scanning the container using their phones. In this way, patients have a way of ensuring the correct medication without even having to open the container. Any changes or problems with the prescription would automatically be recognized and from there the patient can contact their pharmacy or health care provider for help. 
 
 
 * Inspiration
