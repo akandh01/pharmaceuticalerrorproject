@@ -1,4 +1,6 @@
- # Pharmaceutical Error Prototype 
+ # Pharmaceutical Error Project 
+ 
+ # Medication Scanner Prototype 
 
 ## Project Background 
 The three most common pharmaceutical errors are dispensing an incorrect medication, miscalculating a dose and failing to identify drug contraindications and interactions. These errors are likely caused by health care providers and the patients themselves. Due to this, an estimated 30 to 50 million prescriptions are filled incorrectly every year. These human errors can cause serious health issues for children under the age of 5 and the elderly. 
