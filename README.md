@@ -81,8 +81,6 @@ From the participants interviewed, the following results were analyzed:
 
 ## Getting Started: AR Project 
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
 ### Prerequisites
 
 This prototype will be created using Unity. Specifically, the AR project setting. To test the prototype, users can use their phones.
